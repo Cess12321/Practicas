@@ -1,0 +1,41 @@
+*
+{
+    margin: 25px;
+    
+}
+body
+{
+    font-family:'Times New Roman';
+    background-color: azure;
+
+}
+
+h1
+{ 
+    
+    border: 10px;
+    padding: 10px;
+    border-style: solid;
+    border-radius: 100px;
+    color: cornflowerblue;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-style: italic;
+}
+p
+{
+    color: lightgreen;
+    text-align: justify;
+    text-transform: lowercase;
+    text-indent: 3%; /*sangria*/
+    background-color: aqua;
+
+}
+img{
+    width:30% ;
+    height: 30%;
+    background-position: center;
+    border-radius: 30;
+
+}
